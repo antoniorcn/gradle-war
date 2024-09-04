@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>gradle-war</title>
+    <title>gradle-war template</title>
 </head>
 <body>
-    <h1>gradle-war</h1>
+    <h1>gradle-war template</h1>
     <a href="hello">HelloServlet</a><br/>
 </body>
 </html>

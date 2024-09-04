@@ -1,9 +1,7 @@
-package org.rekdev;
+package edu.curso;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-import java.io.*;
-import jakarta.servlet.*;
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
 

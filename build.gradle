@@ -22,6 +22,6 @@ dependencies {
 
 
 tasks.war {
-    archiveFileName = 'agenda-api.war'
+    archiveFileName = 'gradle-api.war'
 }
 
